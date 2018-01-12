@@ -1,0 +1,233 @@
+.header{
+	background-color: #11369D;
+	height: 100px;
+}
+.sliderbg{
+	background-image: url(bg1.jpg);
+	height: 400px;
+	margin-top: -20px;
+}
+
+.logo{
+
+	padding: 15px;
+}
+
+.edit_nav_header {
+    margin-top: -10px;
+}
+
+.navbar-inverse {
+    background-color: #563D7C;
+    border-color: #080808;
+}
+
+.navbar-inverse .navbar-nav>.active>a:hover {
+    color: #fff;
+    background-color: blue;
+}
+
+.navbar-inverse .navbar-nav>.active>a{
+	 background-color: #563D7C;
+	}
+
+ .navbar-inverse .navbar-nav>li>a:hover {
+    color: #fff;
+    background-color: blue;
+}
+
+.edit_navbar{
+	border-radius: 0px;
+}
+
+
+
+.edit_img{
+	height: 350px;
+	width:590px;
+	border:8px solid #5499A0;
+	border-radius: 5px;
+}
+
+.edit_carousel{
+	margin-top: 20px;
+	margin-left: 20px;	
+
+}
+.edit_navbar-nav{
+	font-family: Forte;
+}
+
+.info{
+	height: 350px;
+	width:450px;
+	background-color: #5499A0;
+	border-radius: 5px;
+	margin-top: 20px;
+	opacity: .5;
+	margin-left: 60px;
+}
+
+.welcome{
+	
+	font-family:Freestyle Script;
+	padding-top: 20px;
+	padding-left: 10px;
+	color: gray;
+	font-size: xx-large;
+	text-align: center;
+
+}
+
+.slogan{
+	font-family: Forte;
+	padding-top: 20px;
+	padding-left: 10px;
+	color: white;
+	font-size: x-large;
+	text-align: center;
+}
+
+.uni_name{
+	
+	padding-top: 50px;
+	font-size: large;
+	color: #4B0082;
+	text-align: center;
+	font-family: Algerian;
+}
+
+.info:hover{
+	background-color: #16637D;
+	opacity: 1;
+}
+
+.main_content{
+	background-image: url(bg.jpg);
+	height: 600px;
+	margin-top: -20px;
+}
+
+.footer{
+	background-color:#563D7C;
+	height: 300px;
+}
+
+.activities_div{
+	height: 545px;
+	width:1090px;
+	background-color: #5499A0;
+	border-radius: 5px;
+	margin-top: 20px;
+	opacity: .5;
+}
+.activities_div h2{
+	padding-top: 70px;
+	padding-bottom: 30px;
+	text-align: center;
+	font-family: Forte;
+}
+.activities_div>h2:hover{
+	color: red;
+	opacity: 1;
+}
+.testDiv1{
+	margin-bottom:130px;
+	margin-left: 130px;
+	padding: 10px;
+	padding-top: 45px;
+	text-align: center;
+	min-height: 250px;
+	width: 250px;
+	background-color: silver;
+	font-size: 20;
+	border-radius: 5px;
+
+}
+
+.testDiv2{
+	margin-bottom:130px;
+	margin-left: 130px;
+	padding: 10px;
+	padding-top: 45px;
+	min-height: 250px;
+	width: 250px;
+	background-color: silver;
+	font-size: 20;
+	border-radius: 5px;
+	text-align: center;
+}
+.testDiv3{
+	margin-bottom:130px;
+	margin-left: 130px;
+	padding: 10px;
+	padding-top: 45px;
+	min-height: 250px;
+	width: 250px;
+	background-color: silver;
+	font-size: 20;
+	border-radius: 5px;
+	text-align: center;
+	
+}
+
+.testDiv3:hover{
+	background-color: #563D7C;
+	opacity: 2;
+
+}
+.testDiv1:hover{
+	background-color:#563D7C;
+	opacity: 1;
+
+}
+.testDiv2:hover{
+	background-color: #563D7C;
+	opacity: 1;
+
+}
+
+.talk{
+	font-size: 80;
+	color: white;
+}
+
+.edit_container img
+{
+	padding-right: 3px;
+}
+
+.edit_container h3
+{
+	font-family: forte;
+}
+
+.img1:hover
+{
+	background-color:#563D7C;
+	opacity: 1;
+}
+
+
+.edit_logo{
+	margin-top: 30px;
+}
+
+.footer_info p{
+	font-size: 77;
+	font-family: forte;
+}
+
+.foo{
+	height: 50px;
+	background-color:black ;
+
+}
+
+.foo p{
+	padding: 15px;
+}
+
+.fb_img{
+	margin-top: 55px;
+}
